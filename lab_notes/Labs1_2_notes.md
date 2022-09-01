@@ -15,7 +15,7 @@ A few people missed the last question by doing `ls > header.csv` instead of `hea
 
 Try to include the necesarry code. Also, try and make as neat as possible. Preference would be for:
 
-Exercise
+**Exercise**
 
 Question
 
