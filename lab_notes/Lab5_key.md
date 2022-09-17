@@ -39,7 +39,7 @@ mean(nf[nf$maleID==3,"T"])
 
 ```
 Max: 136.31
-Mean: 86
+Mean: 149.0377
 
 ## 5. How many rows have GC larger than 50, and T larger than 100? (required for grads only)
 
