@@ -95,8 +95,7 @@ length(pvals[pvals >= 0.05])/length(pvals)
 M <- matrix(rnorm(10000*10000, mean = 1:10000),  #rnorm repeats a value with mean 1:10000 for each row
             nrow = 10000, 
             ncol = 10000,
-            byrow=FALSE) #inputs values in according to column
-
+            byrow=TRUE) #inputs values in according to by row
 
 ### Question 2
 
